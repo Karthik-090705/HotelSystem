@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏨 GrandStay - Hotel Room Booking Management System
 
 GrandStay is a full-stack **MERN (MongoDB, Express.js, React, Node.js)** hotel room booking and management system designed to provide a seamless booking experience for users while offering powerful management tools for administrators.
@@ -213,3 +214,7 @@ Final Year B.Tech Project
 ## 📄 License
 
 This project is created for educational and portfolio purposes.
+=======
+# HotelSystem
+GrandStay is a premium MERN hotel booking system. It features a React/Vite/Tailwind frontend, a Node/Express/MongoDB API, JWT auth, and multer uploads. Users can browse rooms, review stays, manage bookings, and customize multi-tab profiles with photo uploads, while admins monitor system analytics.
+>>>>>>> abe9ef2ad6bdd29a40aaa6fc103452c4fb5b50a2
