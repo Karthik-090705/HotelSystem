@@ -149,6 +149,13 @@ EMAIL_PASS=your_app_password
 ```
 
 Run the backend
+```bash
+cd backend
+```
+
+```
+npm install
+```
 
 ```bash
 npm run dev

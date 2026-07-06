@@ -18,7 +18,7 @@ const Landing = () => {
   return (
     <div className="flex min-h-screen flex-col bg-slate-50">
       <Navbar />
-
+      
       <main className="flex-1">
         {/* Stunning Luxury Hero Section */}
         <section className="bg-gradient-dark relative overflow-hidden px-4 py-24 text-white sm:py-32">
